@@ -4,9 +4,9 @@ def main():
     n=input()
     k=n.isalnum()
     if(k==True):
-        print("yes")
+        print("Yes")
     else:
-        print("no")
+        print("No")
 
 if __name__ == '__main__':
     main()
